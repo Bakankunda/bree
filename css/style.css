@@ -1,0 +1,31 @@
+body {
+    background-color: hotpink;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: blueviolet;
+    font-style: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#second-paragraph {
+    color: fuchsia;
+}
+
+#par1 {
+    font-size: xx-large;
+}
+
+.green-paras {
+    color: green;
+    font-style: oblique;
+}
+
+#bree {
+    width: 100px;
+    height: 200px;
+}
